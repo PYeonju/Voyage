@@ -1,0 +1,2 @@
+﻿  pch.cpp
+E:\4QProject\Voyage\5_Project\NewbieEngine\NewbieEngine\NewbieEnginePch.h(18,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'SimpleMath.h': No such file or directory

@@ -1,0 +1,199 @@
+﻿  AdultBoyPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  AdultGirlPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  AdulthoodScene.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  AdulthoodText.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  BabyPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  BadEndingScene.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  BadEndingSceneScript.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  CompetitorController.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  CompetitorTrace.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  DodoYouthPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_ADULTHOOD_COMPETITOR.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_ADULTHOOD_GIRL.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_ADULTHOOD_INTRO.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_ADULTHOOD_NOTURTLE.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_ADULTHOOD_RHYTHM.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_ADULTHOOD_SEAGULL.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_ADULTHOOD_SWIRL.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_ADULTHOOD_THUNDER.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_ADULTHOOD_TURTLE.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_ADULTHOOD_UPSTAR.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  EVENT_ADULTHOOD_WEDDING.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_OLDAGE_END.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_OLDAGE_FLIASHING.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_OLDAGE_INTRO.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_YOUTH_FARMING.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_YOUTH_SOLO.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  GrandFaPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  GrandMaPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  Ground.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  HappyEndingScene.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  HappyEndingSceneScript.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  LightningPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  OldAgeText.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  Swirl.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  SwirlPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  YouthScene.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  YouthText.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  AdultPlayer.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  BigBoatPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  BigStarPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  BirdDiePrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  BirdDieScript.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  BirdPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  BlinkImage.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  BoatPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  BottlePrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  CameraScript.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  ClockPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  Credit.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  DataManager.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  DialogController.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EventMachine.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_YOUTH_INTRO.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_YOUTH_ROW.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_INFANCY_END.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_INFANCY_FARMING.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_INFANCY_SHAKING.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_INTRO.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  EVENT_TITLE.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  GameClient.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  GameManager.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  GameProcess.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  GlacierPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  HeartPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  Infancy.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  InfancyText.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  IPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  IEventState.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  Island2Prefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  IslandPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  Item.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  JsonBase.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  LilyFlowerPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  LoadingScene.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  LoadingText.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  LoadSceneScript.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  MoneyPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  MoveObject.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  MusicNotePrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  Npc.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  OldAgeScene.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  pch.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  RosePrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  Player.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  PressAnyKey.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  SmallBoatPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  SoundManager.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  StarPrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  TestScene.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  TestScene3.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  TextScript.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  TitleScene.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  TurtlePrefab.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  UIManager.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  YJScene.cpp
+E:\4QProject\Voyage\5_Project\GameClient\pch.h(3,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'NewbieEnginePch.h': No such file or directory
+  코드를 생성하고 있습니다...
